@@ -1,3 +1,5 @@
+Terraform v.1
+
 AWS ECS Fargate Deployment Infrastructure (by Bonaventure Iwunor)
 
 This Terraform project, created and maintained by Bonaventure Iwunor, provisions a scalable and production-ready containerized application infrastructure on Amazon Web Services (AWS) using ECS Fargate, ECR, ALB, and CloudWatch, all configured under a custom Virtual Private Cloud (VPC).
@@ -133,3 +135,6 @@ Domain: bonaventure.org.ng
 License: MIT License
 
 	For business partnerships, engineering consulting, or cloud-native deployment inquiries, reach out through the contact page on my site or via GitHub.
+
+
+Version v.2... loading...
