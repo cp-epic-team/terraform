@@ -1,0 +1,18 @@
+python provision.py
+
+
+
+aws configure
+Access Key ID
+Secret Access Key
+Default region (use us-west-2 for this)
+Output format (json)
+
+
+
+gcloud auth application-default login
+
+
+Clean-up after testing
+cd aws && terraform destroy -auto-approve
+cd ../gcp && terraform destroy -auto-approve
