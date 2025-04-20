@@ -1,0 +1,38 @@
+# Local .terraform directories (plugin & module cache)
+**/.terraform/
+.terraform.lock.hcl
+
+# Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+*.tfplan
+
+# Sensitive variable files
+*.tfvars
+*.tfvars.json
+secrets.auto.tfvars
+
+# Override files (user-specific configs)
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Terraform plan output
+plan.out
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.bak
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
